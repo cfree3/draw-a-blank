@@ -24,14 +24,14 @@ Installing is easy:
 Odds & Ends
 -----------
 
-* _Why build [another][others] extension for this?_
+* **Why build [another][others] extension for this?**
 
   If all you want is for Chrome to open new tabs to a blank page, you shouldn't have to download
   a sketchy extension and worry about its permissions. _Draw a Blank_ is open source and needs
   declare no special permissions at all. Google has made it [trivial][google] to override pages,
   and that's all _Draw a Blank_ does.
 
-* _Why are there no icons?_
+* **Why are there no icons?**
 
   I want the blank tab page to be extremely minimal, yet I do not want it to detract from the
   otherwise clean Chrome experience. Chrome's default New Tab page has no favicon at all.
@@ -40,11 +40,11 @@ Odds & Ends
   the favicon. I could provide an alternative default favicon, but I'd rather not. And I don't
   want to include the one used in Chrome itself so that I can avoid any legal bumps.
 
-* _Why isn't this in the [Web Store][store]?_
+* **Why isn't this in the [Web Store][store]?**
   
   I just haven't put it there.
 
-* _What's in the actual "blank" page?_
+* **What's in the actual "blank" page?**
   
   Not much! But it _is_ valid HTML5. You can [check it][valid] yourself!
 

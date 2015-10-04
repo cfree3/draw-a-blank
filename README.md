@@ -41,11 +41,11 @@ Odds & Ends
   want to include the one used in Chrome itself so that I can avoid any legal bumps.
 
 * **Why isn't this in the [Web Store][store]?**
-  
+
   I just haven't put it there.
 
 * **What's in the actual "blank" page?**
-  
+
   Not much! But it _is_ valid HTML5. You can [check it][valid] yourself!
 
 License

@@ -57,10 +57,6 @@ DISCLAIMER
 I give no assurance of this utility's security, and I do not guarantee that it will not zap your
 computer and fry your homedir. _Use at your own risk._
 
-Bugs
-----
-This is a "works-for-me-maybe" project: I do not guarantee that any bugfixing will occur.
-
 [others]: https://chrome.google.com/webstore/search-extensions/blank%20new%20tab
 [google]: http://developer.chrome.com/extensions/override.html
 [icons]:  http://developer.chrome.com/extensions/manifest.html#icons

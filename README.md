@@ -50,7 +50,7 @@ Odds & Ends
 
 License
 -------
-_Draw a Blank_ is released under the [MIT][mit] license. Nothing special here.
+_Draw a Blank_ is released under the MIT license (see `LICENSE.md`).
 
 DISCLAIMER
 ----------
@@ -66,4 +66,3 @@ This is a "works-for-me-maybe" project: I do not guarantee that any bugfixing wi
 [icons]:  http://developer.chrome.com/extensions/manifest.html#icons
 [store]:  https://chrome.google.com/webstore
 [valid]:  http://validator.w3.org
-[mit]:    http://www.tldrlegal.com/l/MIT
